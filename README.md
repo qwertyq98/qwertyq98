@@ -1,7 +1,7 @@
 ### Привет! Я — фронтенд-разработчик 👋
 
 - Основной стек: JavaScript React.js HTML5 CSS3 БЭМ 
-- Решаю задачки на Codewars: [![codewars](https://www.codewars.com/users/qwertyq98/badges/micro)](https://www.codewars.com/users/qwertyq98) 
+- Решаю задачи на Codewars: [![codewars](https://www.codewars.com/users/qwertyq98/badges/micro)](https://www.codewars.com/users/qwertyq98) 
 - Учусь в Яндекс.Практикум по специальности «Веб-разработчик»
 
 ## Контакты
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=qwertyq98)](https://git.io/streak-stats)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwertyq98)](https://github.com/qwertyq98/github-readme-stats) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qwertyq98&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qwertyq98&theme=default)
 
 ![](https://komarev.com/ghpvc/?username=qwertyq98)
