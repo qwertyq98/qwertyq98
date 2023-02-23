@@ -1,12 +1,15 @@
 ### Привет! Я — фронтенд-разработчик 👋
 
 - Основной стек: JavaScript React.js HTML5 CSS3 БЭМ 
-- Решаю задачки на Codewars: [![codewars](https://www.codewars.com/users/username/qwertyq98/micro)](https://www.codewars.com/users/username) 
+- Решаю задачки на Codewars: [![codewars](https://www.codewars.com/users/qwertyq98/badges/micro)](https://www.codewars.com/users/qwertyq98) 
 - Учусь в Яндекс.Практикум по специальности «Веб-разработчик»
 
 ## Контакты
+
 E-mail: nikitinaan98@mail.ru
+
 Telegram: https://t.me/kapustinaan
+
 <!--
 **qwertyq98/qwertyq98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
