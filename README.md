@@ -3,10 +3,11 @@
 - Основной стек:   
 
   JavaScript   
-  React.js   
+  React
   HTML5     
   CSS3     
   БЭМ 
+  Webpack
   
 - Решаю задачи на Codewars: [![codewars](https://www.codewars.com/users/qwertyq98/badges/micro)](https://www.codewars.com/users/qwertyq98) 
 - Учусь в Яндекс. Практикум по специальности «Веб-разработчик»
