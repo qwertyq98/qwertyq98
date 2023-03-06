@@ -2,12 +2,12 @@
 
 - Основной стек:   
 
-  JavaScript   
-  React
-  HTML5     
-  CSS3 
-  Webpack    
-  БЭМ  
+  * JavaScript   
+  * React
+  * HTML5     
+  * CSS3 
+  * Webpack    
+  * БЭМ  
   
 - Решаю задачи на Codewars: [![codewars](https://www.codewars.com/users/qwertyq98/badges/micro)](https://www.codewars.com/users/qwertyq98) 
 - Учусь в Яндекс. Практикум по специальности «Веб-разработчик»
