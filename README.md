@@ -44,7 +44,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qwertyq98&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qwertyq98&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=default)
 
 ![](https://komarev.com/ghpvc/?username=qwertyq98)
 
