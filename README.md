@@ -1,8 +1,8 @@
-### Привет! Я — начинающий фронтенд-разработчик 💻
+### Привет! Я — фронтенд-разработчик 💻
   
 - Решаю задачи на Codewars: [![codewars](https://www.codewars.com/users/qwertyq98/badges/micro)](https://www.codewars.com/users/qwertyq98) 
 - Закончила Яндекс.Практикум - специальность «Веб-разработчик»
-- Нахожусь в поиске работы Frontend Developer / Web Developer
+- Учусь новому, путешствую
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=qwertyq98)](https://git.io/streak-stats)
 
